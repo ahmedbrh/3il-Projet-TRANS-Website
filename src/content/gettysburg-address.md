@@ -9,7 +9,7 @@ draft: false
 
 ## S'inscrite : _[ici!](https://docs.google.com/forms/d/e/1FAIpQLSe2EyyXmV282bSGQY4-7X6ItL_bfET5zS5ZiF_HwXf1i5Dw8g/viewform?usp=sf_link)_
 
-Ce Team Building à distance nouspermet de continuer à fédérer nos collaborateurs malgré la distanciation sociale. Ils devront résoudre une enquête suite à un vol au Musée du Louvres. Une activité ludique pour recréer du lien entre vos équipes !
+Ce Team Building à distance nous permet de continuer à fédérer nos collaborateurs malgré la distanciation sociale. Ils devront résoudre une enquête suite à un vol au Musée du Louvres. Une activité ludique pour recréer du lien entre nos équipes !
 
 # Au programme :
 
@@ -25,10 +25,10 @@ Le leader de l'équipe clique sur ce lien pour rejoindre la plateforme et partag
 L'ensemble des participants jouent en simultané, sur la même plateforme de jeu. Toutes les équipes évoluent indépendamment les unes des autres. La même expérience de jeu est vécue par toutes les équipes, qui se challengent entre elles pour réaliser le meilleur temps d'enquête).
 <br>
 L'enquête à réaliser en 1 heure est divisée en 6 étapes sur la plateforme. Pour réaliser leur enquête, les joueurs sont guidés par "l'algorithme d'enquête intelligent Digital Quest", qui leur fournit des données d'enquête à chaque étape, avec une réponse commune à trouver pour passer à l'étape suivante.
-L'ensemble des membres de l'équipe devra collaborer et chercher ensemble. Et chaque membre de l'équipe va pouvoir/devoir également utiliser les outils physiques qu'il a à disposition (extérieurs à la plateforme de jeu) pour progresser : sa connexion internet pour effectuer des recherches, son smartphone, ses mails...
+L'ensemble des membres de l'équipe devra collaborer et chercher ensemble. Et chaque membre de l'équipe va pouvoir/devoir également utiliser les outils physiques qu'il a à disposition (extérieurs à la plateforme de jeu) pour progresser : sa connexion internet pour effectuer des recherches, son smartphone, ses mails... <br>
 Vous pourrez également personnaliser ou customiser le jeu avec l'aide des équipes d'Urban Quest (en supplément).
 
-Vos collaborateurs devront faire preuve de malice et d'esprit d'équipe. Idéal pour une activité d'entreprise !
+Nos collaborateurs devront faire preuve de malice et d'esprit d'équipe. Idéal pour une activité d'entreprise !
 
 Ils ont fait confiance à Tarek et son équipe : Ernst & Young France, La Poste, l'Inseec, Sodastream...
 <br>
