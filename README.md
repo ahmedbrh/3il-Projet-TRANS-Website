@@ -2,4 +2,4 @@
 # Projet transverse 
 School project :
 
-- Lien vers le site : [just-heal.netlify.app](https://just-heal.netlify.app/)
+- Lien vers le site : [just-heal](https://just-heal.netlify.app/)
