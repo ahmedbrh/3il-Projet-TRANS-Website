@@ -1,4 +1,4 @@
 # 3il-Projet-TRANS-Website
-## Projet transverse 
+# Projet transverse 
 
-- Lien vers le site : just-heal.netlify.app
+- Lien vers le site : [just-heal.netlify.app](just-heal.netlify.app)
