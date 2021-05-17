@@ -1,5 +1,6 @@
 # 3il-Projet-TRANS-Website (school project)
-# Projet transverse 
+# Projet transverse (Projet academique) 
 
 - ( Just heal : une entreprise fictif )
-- Lien vers le site : 👉 [just-heal](https://just-heal.netlify.app/)
+- Lien vers le site : 👉 [just-heal](https://just-heal.netlify.app/) 
+
