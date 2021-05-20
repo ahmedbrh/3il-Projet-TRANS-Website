@@ -6,7 +6,7 @@ import { lighten, setLightness } from 'polished';
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
-import { css } from '@emotion/react';
+
 import styled from '@emotion/styled';
 
 import { Footer } from '../components/Footer';
@@ -20,6 +20,8 @@ import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
 import { AuthorList } from '../components/AuthorList';
+import { css } from '@emotion/react';
+
 
 export interface Author {
   id: string;
@@ -141,8 +143,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           />
         )}
         <meta property="article:published_time" content={post.frontmatter.date} />
-        {/* not sure if modified time possible */}
-        {/* <meta property="article:modified_time" content="2018-08-20T15:12:00.000Z" /> */}
+        
         {post.frontmatter.tags && (
           <meta property="article:tag" content={post.frontmatter.tags[0]} />
         )}
